@@ -1,0 +1,2 @@
+# GitInit
+Hello Git
