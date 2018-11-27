@@ -7,4 +7,6 @@ class InitGit:
 
 
 print('Test :: ' + str(InitGit.test_number) + ' Successful')
+print("Tested")
+
 
